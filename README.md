@@ -33,7 +33,7 @@ This project analyzes customer churn data using Python. It includes data cleanin
 
 ## 📁 Files
 - customer churn Project.ipynb
-- WA_Fn-UseC_-Telco-Customer-Churn.csv
+- Dataset Telco-Customer-Churn.csv
 - Summary of Customer Churn Analysis.pdf
 
 ## 🎯 Objective
